@@ -6,7 +6,8 @@ All calibrated ages are reported as years Before Present (BP, considering presen
 ### Prerequisites
 - Text file manager (eg. note ++, Excel).
 - Python software https://www.python.org/downloads/ 
-- https://jupyter.org/ 
+- https://jupyter.org/
+- calibrar14Cages_surface_sediments.ipynb 
 
 Imputs:
 - raw 14C ages with errors
