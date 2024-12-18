@@ -1,4 +1,4 @@
-# calibrar14ages_surfacesediments
+# calibrar14ages_surface_sediments
 
 Goal: Phython code for calculate calibrated radiocarbon ages 
 
