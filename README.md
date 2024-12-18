@@ -1,6 +1,7 @@
 # calibrar14ages_surface_sediments
 
-Goal: Phython code for calculate calibrated radiocarbon ages 
+Goal: Phython code developed calibrated radiocarbon ages in surface marine sediments. The ages can be corrected using regional marine surface reservoir ages expressed as R (R = 14C from the ocean - 14C from the atmosphere), which represents the deviation from the SHCal20 curve at a given time, using the python library iosacal 0.6.0 (Costa et al., 2022, https://pypi.org/project/iosacal/). 
+All calibrated ages are reported as years Before Present (BP, considering present the year 1950). We considered foraminifera with radiocarbon ages >1950 (Post-radiocarbon boom period) or samples with radiocarbon ages smaller than the average of the different regional modern reservoir ages calculated for as specific region as recent. 
 
 ### Prerequisites
 - Text file manager (eg. note ++, Excel).
