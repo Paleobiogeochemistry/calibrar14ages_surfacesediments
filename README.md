@@ -18,3 +18,8 @@ Necesary libraries to be imported to run the code:
 - pandas 
 - numpy
 - python library iosacal 0.6.0 (Costa et al., 2022, https://pypi.org/project/iosacal/) 
+
+## Data management and script developers 
+
+* **Consuelo Martínez Fontaine** - [consuelola.m.f@gmail.com] 
+* **Dharma Andrea Reyes Macaya** - [d.reyes_macaya@hw.ac.uk; dharmareyes@gmail.com] 
